@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "65373602698",
+    "firebase_url": "https://logindofacebook-322b0.firebaseio.com",
+    "project_id": "logindofacebook-322b0",
+    "storage_bucket": "logindofacebook-322b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65373602698:android:2938f991395ef71e",
+        "android_client_info": {
+          "package_name": "testeadapt3.cursoandroid2.com.logindofacebook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "65373602698-c0jcv53lt2ur2kdumfnel459d0jeefn0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "testeadapt3.cursoandroid2.com.logindofacebook",
+            "certificate_hash": "82b5c326ea3c2dadd637ad5f505e9e9b88a92e39"
+          }
+        },
+        {
+          "client_id": "65373602698-fih8ikdi3s4iol9jhg6260dhccjbd1v4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZfdDv4bhRcW2tkcm1NQNBpprOFRUvJO0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "65373602698-fih8ikdi3s4iol9jhg6260dhccjbd1v4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

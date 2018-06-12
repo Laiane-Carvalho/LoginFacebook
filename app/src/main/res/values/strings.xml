@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LogindoFacebook</string>
+    <string name="facebook_app_id">101265177370974</string>
+    <string name="fb_login_protocol_scheme">fb101265177370974</string>
+    <string name="facebook_status_fmt"> Usuário do Facebook: %s </string>
+    <string name="firebase_status_fmt"> Firebase User: %s </string>
+    <string name="signed_out"> Signed Out </string>
+
+
+</resources>
